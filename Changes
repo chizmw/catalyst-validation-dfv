@@ -1,0 +1,16 @@
+This file documents the revision history for Catalyst::Controller::Validation::DFV;
+
+0.0.5   Mon Mar 16 08:06:19 GMT 2009
+    - added requirements to try to get off the starting block with cpantesters
+
+0.0.4   Mon Mar  9 09:04:37 GMT 2009
+    - removed "use Data::Dump" which I foolishly left floating around
+
+0.0.3   Sun Mar  8 11:34:30 GMT 2009 
+    - remove Build.PL (Module::Install no longer supports Build.PL)
+
+0.0.2
+    - Initial module release
+
+0.0.1
+    - private experimentation

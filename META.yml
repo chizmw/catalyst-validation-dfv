@@ -1,0 +1,26 @@
+---
+abstract: 'check form data'
+author:
+  - 'Chisel Wright C<< <chiselwright@users.berlios.de> >>'
+build_requires:
+  FindBin: 0
+  Test::More: 0
+distribution_type: module
+generated_by: 'Module::Install version 0.75'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: Catalyst-Controller-Validation-DFV
+no_index:
+  directory:
+    - inc
+    - t
+    - examples
+    - examples
+requires:
+  Catalyst::Controller: 0
+  Data::FormValidator: 4.50
+  Data::FormValidator::Constraints: 0
+  Test::More: 0.72
+version: 0.0.5
