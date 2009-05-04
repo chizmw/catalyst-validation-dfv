@@ -1,0 +1,52 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.55.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 00004f247337b339e7386496290fd395fbd9c17b Changes
+SHA1 0971db0ee9c099025aaa1f9dba1720667d3c37eb MANIFEST
+SHA1 8d5cf3521ca7eee220761d5eaf30176410ad26a5 MANIFEST.SKIP
+SHA1 bf33569c4be7279d2206e10068f6b60cbeeefd49 META.yml
+SHA1 ccf4ceb4b9c49b4335a0ae6e5ca881863c7f6e06 Makefile.PL
+SHA1 e4b85ce287fdbf4bcbfe59d7bc3c99491b3d0ce4 README
+SHA1 3b180ce6869c8aaf3bc874898c531c875adacfaa examples/sample.css
+SHA1 c466da60399521086bf4bdd77ba74c773889712a examples/tt/dfv/display_validation_messages
+SHA1 5ad51733e25c612527957e5b77fb3e5e424f5003 examples/tt/dfv/validation_messages_data
+SHA1 7c4e4f94be7f3b7722bb41a199c135d701f964ea examples/tt/header
+SHA1 603bb9de29fb8cba7f13409c546750972eff645d inc/Module/AutoInstall.pm
+SHA1 f0577f8f88a6703e9bca2d10196cfd293f3d6f2f inc/Module/Install.pm
+SHA1 b2a2c9b6cb4b1bcd119825acc707f45946d8b126 inc/Module/Install/AutoInstall.pm
+SHA1 5d574849849860b8cf06035cc6f1a306c66cb326 inc/Module/Install/Base.pm
+SHA1 c30f50bc2a1542dff17f84a54d9316f3c3c6299e inc/Module/Install/Can.pm
+SHA1 9b618efcd783f6ed4bab84fa22b31886fcc38d57 inc/Module/Install/Fetch.pm
+SHA1 808d4b2d764185a34c89e675bb4eaad18c075b14 inc/Module/Install/Include.pm
+SHA1 cd14c8de2a67b0f14df9bc20c27f3edabd359d1b inc/Module/Install/Makefile.pm
+SHA1 a2162aec678d21988fce47ab805cf01773196292 inc/Module/Install/Metadata.pm
+SHA1 4ae5d56e11e640bd9520634dde6d563926f6d98a inc/Module/Install/Win32.pm
+SHA1 587cc94b52b640fe2d4972253b6369aa951e2210 inc/Module/Install/WriteAll.pm
+SHA1 08a601e4697e5b94a19decc86b8576f63beb06a0 lib/Catalyst/Controller/Validation/DFV.pm
+SHA1 abf3b240e87e9223982505d901952abbd81b653f t/00.basic.t
+SHA1 9159f12c02a9e12273e8adb4e1c8e2e3f75752a3 t/10.catalyst.controller.validation.dfv.t
+SHA1 72c0f23a7fccd8468df865d09787c9f8c3c5c14c t/lib/TestApp.pm
+SHA1 37045a4540668fcbc4d28e5293eafdbb942f2e5f t/lib/TestApp/Component/TT.pm
+SHA1 301755ee4cc1e67f147f6a79bdf93a4f0d6e43b0 t/lib/TestApp/Controller/Base.pm
+SHA1 2ad7cc5990f4e7e82bbd86b4af1711dfe5a231c5 t/lib/TestApp/Controller/Form.pm
+SHA1 5dc449547884fa4b2839eee836aad6b447726119 t/root/src/tt2/form/first.tt
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iEYEARECAAYFAknKfo4ACgkQ5S9GdAmyhimR3QCfcEDiG32y9OLON64JHZLqXzCs
+VJkAn0YZGqiTO3HYaSTcTnr3M6g0N5iE
+=a9p0
+-----END PGP SIGNATURE-----
