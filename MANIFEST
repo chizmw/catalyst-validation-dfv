@@ -1,0 +1,23 @@
+Changes
+examples/sample.css
+examples/tt/dfv/display_validation_messages
+examples/tt/dfv/validation_messages_data
+examples/tt/header
+inc/Module/AutoInstall.pm
+inc/Module/Install.pm
+inc/Module/Install/AutoInstall.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Include.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+lib/Catalyst/Controller/Validation/DFV.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+META.yml
+README
+t/10.catalyst.controller.validation.dfv.t
