@@ -84,7 +84,7 @@ __END__
 
 =head1 NAME
 
-Catalyst::Controller::Validation::DFV - check form data
+Catalyst::Controller::Validation::DFV - Form validation and refilling
 
 =head1 SUMMARY
 

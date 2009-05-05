@@ -1,5 +1,5 @@
 ---
-abstract: 'check form data'
+abstract: 'Form validation and refilling'
 author:
   - 'Chisel Wright C<< <chiselwright@users.berlios.de> >>'
 build_requires:
