@@ -1,6 +1,6 @@
 This file documents the revision history for Catalyst::Controller::Validation::DFV;
 
-0.0.6
+0.0.6   Tue May  5 08:25:24 BST 2009
     - added "version" to list of dependencies; should fix a couple of failing
       tests on cpantesters
     - added Mechanize based tests
