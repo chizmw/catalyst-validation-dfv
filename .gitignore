@@ -1,0 +1,4 @@
+/Catalyst-Controller-Validation-DFV*.tar.gz
+/Catalyst-Controller-Validation-DFV*/
+/.build/
+.*sw?
