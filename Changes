@@ -1,6 +1,8 @@
 This file documents the revision history for Catalyst::Controller::Validation::DFV;
 
 {{$NEXT}}
+
+0.0.7     2012-01-30 15:22:31 Europe/London
  - convert to Dist::Zilla
 
 0.0.6   Tue May  5 08:25:24 BST 2009
