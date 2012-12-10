@@ -1,6 +1,8 @@
 This file documents the revision history for Catalyst::Controller::Validation::DFV;
 
 {{$NEXT}}
+
+0.0.8     2012-12-10 22:37:44 Europe/London
  - Don't list ourself as a prereq (RT#81741)
 
 0.0.7     2012-01-30 15:22:31 Europe/London
