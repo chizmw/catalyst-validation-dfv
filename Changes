@@ -1,6 +1,7 @@
 This file documents the revision history for Catalyst::Controller::Validation::DFV;
 
 {{$NEXT}}
+ - Don't list ourself as a prereq (RT#81741)
 
 0.0.7     2012-01-30 15:22:31 Europe/London
  - convert to Dist::Zilla
