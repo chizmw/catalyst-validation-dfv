@@ -4,7 +4,7 @@ Catalyst::Controller::Validation::DFV - Form validation and refilling
 
 # VERSION
 
-version 0.0.1
+version 0.0.9
 
 # SYNOPSIS
 
