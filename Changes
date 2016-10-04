@@ -1,9 +1,10 @@
 This file documents the revision history for Catalyst::Controller::Validation::DFV;
 
 {{$NEXT}}
- - Replace content_[un]like regexps with grep_inputs #1
- - Update dist.ini to require ALL the Test reqs
- - Include submodule for buildkite helpers
+ - replace content_[un]like regexps with grep_inputs #1
+ - update dist.ini to require ALL the Test reqs
+ - include submodule for buildkite helpers
+ - include Pod::Weaver::Section::Contributors
 
 0.0.8     2012-12-10 22:37:44 Europe/London
  - Don't list ourself as a prereq (RT#81741)
