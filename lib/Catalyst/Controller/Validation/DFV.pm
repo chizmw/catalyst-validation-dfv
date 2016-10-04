@@ -22,6 +22,14 @@ sub form_check :Private {
     return;
 }
 
+
+=head1 Methods
+
+=cut
+
+=head2 add_form_invalid
+
+=cut
 sub add_form_invalid :Private {
     my ($self, $c, $invalid_key, $invalid_value) = @_;
 
@@ -40,10 +48,16 @@ sub add_form_invalid :Private {
     return;
 }
 
+=head2 validation_errors_to_html
+
+=cut
 sub validation_errors_to_html :Private {
     my ($self, $c) = @_;
 }
 
+=head2 refill_form
+
+=cut
 # factored out of a block of code I regularly paste into Controller/Root.pm
 sub refill_form :Private {
     my ($self, $c) = @_;
