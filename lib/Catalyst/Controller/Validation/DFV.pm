@@ -161,4 +161,14 @@ There are L<Template::Toolkit> file examples in the examples/ directory of
 this distribution.
 
 =cut
+
+=begin markdown
+
+## BUILD STATUS
+
+### master
+
+[![Build status](https://badge.buildkite.com/a51523ccfc452014358d9666ac0a51ca30bc409da860c34b7d.svg)](https://buildkite.com/chizography/catalyst-validation-dfv)
+
+=end markdown
 # vim: ts=8 sts=4 et sw=4 sr sta
