@@ -1,6 +1,8 @@
 This file documents the revision history for Catalyst::Controller::Validation::DFV;
 
 {{$NEXT}}
+
+0.0.1     2016-10-04 09:31:44-04:00 America/New_York
  - replace content_[un]like regexps with grep_inputs #1
  - update dist.ini to require ALL the Test reqs
  - include submodule for buildkite helpers
